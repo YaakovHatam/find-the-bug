@@ -11,8 +11,9 @@ function createUser(name) {
     }
 }
 
-createUser('admin');
-createUser('0gag');
-createUser('bullish');
+var user1 = createUser('admin');
+var user2 = createUser('0gag');
+var user3 = createUser('bullish');
+console.log(user1, user2, user3);
 // 'Username not allowed!', '0gag (Starts with 0)', 'bullish'
 
