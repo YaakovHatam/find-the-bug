@@ -14,5 +14,5 @@ function createUser(name) {
 createUser('admin');
 createUser('0gag');
 createUser('bullish');
-// 'Username not allowed!', '0gag (Starts with 0)', bullish
+// 'Username not allowed!', '0gag (Starts with 0)', 'bullish'
 
