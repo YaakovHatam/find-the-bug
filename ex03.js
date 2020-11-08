@@ -41,4 +41,4 @@ const totalUsersAdded = addUsers('user c', 'user d', 'user e');
 
 userCounter += totalUsersAdded;
 
-console.log(userCounter); // 4
+console.log(userCounter); // 5
