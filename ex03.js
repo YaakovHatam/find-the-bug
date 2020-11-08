@@ -37,7 +37,7 @@ function addUsers(name1, name2, name3) {
     return userCounter;
 }
 
-const totalUsersAdded = addUsers('user c', 'user d');
+const totalUsersAdded = addUsers('user c', 'user d', 'user e');
 
 userCounter += totalUsersAdded;
 
